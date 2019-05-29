@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication2.cpp
+  LINK : не найден или не выполнена сборка H:\лаба_моч_2\ConsoleApplication2.2\Debug\ConsoleApplication2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ConsoleApplication2.vcxproj -> H:\лаба_моч_2\ConsoleApplication2.2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> H:\лаба_моч_2\ConsoleApplication2.2\Debug\ConsoleApplication2.pdb (Partial PDB)
